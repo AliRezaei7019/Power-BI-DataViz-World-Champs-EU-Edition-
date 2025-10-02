@@ -6,7 +6,7 @@
 **Live Dashboard:** [View in Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiY2Q4MDYzM2YtM2RkMi00MzRmLTg2NjAtOTc3YTc1OWJiNTEyIiwidCI6IjljNTRkZmMyLTMxMTktNDVlMC1hYTIzLWE5Nzg5ZDZiNzIyOCIsImMiOjEwfQ%3D%3D)
 
 This repository contains my submission for the **Power BI Dataviz World Champs (EU edition)**.  
-The dashboard explores **quality of life, culture, and sustainability across Europe** over time using open datasets. It is structured across three main pages: **Overview, Analytics, and Insights**.
+The dashboard explores **quality of life, culture, and sustainability across Europe** over time using open datasets. It is structured across three main pages: **Overview, Analytical Evaluation, and Actionable Insights**.
 
 ---
 
@@ -20,7 +20,7 @@ The dashboard explores **quality of life, culture, and sustainability across Eur
 
 ## Dashboard Pages
 
-###  **Overview** /  **Analytics** / **Insights**
+###  **Overview** /  **Analytical Evaluation** / **Actiobable Insights**
 - High-level view of the key indicators: life satisfaction, renewable energy share, cultural participation, and population.
 - Interactive **map-based rankings** to quickly identify leaders and laggards by indicator and year.
 - Dynamic KPIs with highlights of top-5 and bottom-5 countries.
